@@ -1,0 +1,46 @@
+body{
+    text-align: center;
+    font-family: cursive;
+   
+    /* background-color: rgb(231, 210, 186); */
+}
+h1{
+    color: darkred;
+}
+#container{
+ /* border:1px solid black ; 
+   */
+ 
+}
+#firstChild{
+    /* border:1px solid black ; */
+}
+input{
+    font-family: cursive;
+    
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    font-family: cursive;
+}
+button,
+.btn{
+    /* background-color: cadetblue; */
+    color: darkred;
+    border: 1px solid darkred;
+    padding: 5px;
+}
+#list {
+    height:100%;
+    width: 50%;
+    width: max-content;
+}
+#list li{
+    text-decoration: none;
+    list-style: none;
+    margin-right: 0px;
+}
+#listItems{
+    justify-content: space-between;
+    display: inline;
+}
