@@ -1,46 +1,44 @@
-body{
+body {
     text-align: center;
     font-family: cursive;
-   
     /* background-color: rgb(231, 210, 186); */
 }
-h1{
+
+h1 {
     color: darkred;
 }
-#container{
- /* border:1px solid black ; 
-   */
- 
-}
-#firstChild{
-    /* border:1px solid black ; */
-}
-input{
+
+input {
     font-family: cursive;
-    
     border-top: none;
     border-left: none;
     border-right: none;
     font-family: cursive;
 }
+
 button,
-.btn{
+.btn {
     /* background-color: cadetblue; */
     color: darkred;
     border: 1px solid darkred;
     padding: 5px;
 }
-#list {
-    height:100%;
+
+
+/* #list {
+    height: 100%;
     width: 50%;
     width: max-content;
-}
-#list li{
+    text-emphasis: center;
+} */
+
+#list li {
     text-decoration: none;
     list-style: none;
-    margin-right: 0px;
+    text-align: center;
 }
-#listItems{
+
+#listItems {
     justify-content: space-between;
     display: inline;
 }
